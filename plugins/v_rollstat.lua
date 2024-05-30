@@ -18,6 +18,7 @@ ix.command.Add("Rollstat", {
             ["forti"] = "fortitude",
             ["obs"] = "observation",
             ["fortu"] = "fortune",
+            ["med"] = "medical",
 			--[[
             ["medical"] = "medical",
 			["accuracy"] = "accuracy",

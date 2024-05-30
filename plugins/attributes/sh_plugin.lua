@@ -24,6 +24,7 @@ ix.command.Add("CharShowAttribs", {
         str = str.. "\n Fortitude: " ..target:GetAttribute("fortitude", 0)
         str = str.. "\n Observation: " ..target:GetAttribute("observation", 0)
         str = str.. "\n Fortune: " ..target:GetAttribute("fortune", 0)
+        str = str.. "\n Resilience: " ..target:GetAttribute("resilience", 0)
 
 		
 		return str
